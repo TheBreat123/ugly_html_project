@@ -1,0 +1,47 @@
+h1{
+    background-color: blue;
+    text-align: center;
+    color: gold;
+}
+
+img{
+    width: 400px;
+    margin:auto;
+    display:block;
+    border-style: solid;
+    border-color: blue;
+    border-width: 3px;
+    
+}
+body{
+    background: black;
+    color: white;
+}
+.pokemon_images{
+    width: 150px;
+    margin:auto;
+    display:block;
+    border-color: black;
+}
+
+#bulbasaur_container{
+    border-style: solid;
+    border-color: gold;
+    border-width: 3px;
+    background-color: green;
+    border-radius: 10px;
+}
+#charmander_container{
+    border-style: solid;
+    border-color: gold;
+    border-width: 3px;
+    background-color: orange;
+    border-radius: 10px;
+}
+#squirtle_container{
+    border-style: solid;
+    border-color: gold;
+    border-width: 3px;
+    background-color: blue;
+    border-radius: 10px;
+}
